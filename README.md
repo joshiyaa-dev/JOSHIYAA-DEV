@@ -28,6 +28,35 @@
 
 ---
 
+## 🧭 Quick Navigation
+
+<div align="center">
+
+[whoami](#-whoami) •
+[Tech Arsenal](#-tech-arsenal) •
+[GitHub Stats](#-github-stats-universe) •
+[Work Experience](#-work-experience) •
+[Featured Projects](#-featured-projects) •
+[Research](#-research-publications) •
+[Achievements](#-achievements-hall-of-fame) •
+[Certifications](#-certifications-vault) •
+[Education](#-education) •
+[Currently Learning](#-currently-learning) •
+[Fun Facts](#-fun-facts)
+
+</div>
+
+---
+
+## ✨ Quick Snapshot
+
+- 🔬 **Focus Areas:** AI Innovation, Quantum ML Research, and Full-Stack Product Development  
+- 🏆 **Recent Milestones:** IIT Bombay Eureka Zonalist and HackXelerate’26 Special Prize Winner  
+- 🌍 **Mission:** Build inclusive technology that reduces language and opportunity barriers  
+- 🤝 **Open To:** Collaborations on AI, RAG systems, cloud-native apps, and social-impact tech
+
+---
+
 <div align="center">
 
 ```
